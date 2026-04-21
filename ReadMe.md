@@ -1,4 +1,4 @@
-# 🎬 Cinema Seat Booking System Prototype For Windows OS
+# 🎬 Cinema Seat Booking System
 
 ## 🌟 Overview
 
